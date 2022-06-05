@@ -1,8 +1,15 @@
 // Section 6
 // Primitive Types
 
-// signed: negative AND positive numbers (the usual)
-// unsigned: ONLY non-negative numbers
+/* some notes:
+
+ signed: negative AND positive numbers (the usual)
+ unsigned: ONLY non-negative numbers
+ CHAR_MIN CHAR_MAX INT_MIN INT_MAX
+ sizeof(variable)
+ sizeof(int)    sizeof(float) 
+ 
+*/
 
 #include <iostream>
 
