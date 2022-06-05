@@ -1,6 +1,9 @@
 // Section 6
 // Primitive Types
 
+// signed: negative AND positive numbers (the usual)
+// unsigned: ONLY non-negative numbers
+
 #include <iostream>
 
 using namespace std;
